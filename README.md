@@ -7,3 +7,5 @@
 2. Run the script
 3. View the tidy dataset that is created. This file is also found in the github repository
 
+---Source of the dataset
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
